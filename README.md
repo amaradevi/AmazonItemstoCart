@@ -36,6 +36,7 @@ Above usecase is tested for 2 scenarios
 
 6.Run any of the below testcases  with "Run as TestNG" option. 
 
-AddBestSell_Unique_ItemstoCart
-AddBestsellItemstoCart_WithDuplicates
+AddBestSell_Unique_ItemstoCart.java
+
+AddBestsellItemstoCart_WithDuplicates.java
 
