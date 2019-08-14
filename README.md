@@ -1,6 +1,7 @@
 This code is for Automation Testing of Amazon Items added to cart Usecase using Selenum with Java 
 
 Prerequisties:
+
 1.Selenium Libraries 
 2.Chrome/Gecko Driver 
 3.jdk8 
