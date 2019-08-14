@@ -1,0 +1,12 @@
+[2019-08-14 16:30:42,911] INFO  com.amazon.test.AddBestSell_Unique_ItemstoCart  - chromedriver instantiated
+[2019-08-14 16:30:44,378] INFO  com.amazon.test.AddBestSell_Unique_ItemstoCart  - http://www.amazon.comlog in page is opened
+[2019-08-14 16:30:48,715] INFO  com.amazon.test.AddBestSell_Unique_ItemstoCart  - Logged in successfully with amaradevi@gmail.com
+[2019-08-14 16:30:48,719] INFO  com.amazon.test.AddBestSell_Unique_ItemstoCart  - Started Searching Headphones
+[2019-08-14 16:31:07,825] INFO  com.amazon.test.AddBestSell_Unique_ItemstoCart  - Validating the  Headphonescount in cart 
+[2019-08-14 16:31:17,863] INFO  com.amazon.test.AddBestSell_Unique_ItemstoCart  - Successfully validated  Headphonescount in cart 
+[2019-08-14 16:32:06,960] INFO  com.amazon.test.AddBestsellItemstoCart_WithDuplicates  - chromedriver instantiated
+[2019-08-14 16:32:06,983] INFO  com.amazon.test.AddBestsellItemstoCart_WithDuplicates  - http://www.amazon.comlog in page is opened
+[2019-08-14 16:32:13,829] INFO  com.amazon.test.AddBestsellItemstoCart_WithDuplicates  - Logged in successfully with amaradevi@gmail.com
+[2019-08-14 16:32:13,833] INFO  com.amazon.test.AddBestsellItemstoCart_WithDuplicates  - Started Searching Headphones
+[2019-08-14 16:32:42,081] INFO  com.amazon.test.AddBestsellItemstoCart_WithDuplicates  - Validating the  Headphonescount in cart 
+[2019-08-14 16:32:49,715] INFO  com.amazon.test.AddBestsellItemstoCart_WithDuplicates  - Successfully validated  Headphonescount in cart 

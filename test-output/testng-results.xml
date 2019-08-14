@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="54755" started-at="2019-08-14T11:01:57Z" finished-at="2019-08-14T11:02:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="54755" started-at="2019-08-14T11:01:57Z" finished-at="2019-08-14T11:02:51Z">
+      <class name="com.amazon.test.AddBestsellItemstoCart_WithDuplicates">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.amazon.test.AddBestsellItemstoCart_WithDuplicates@5abca1e0]" name="setup" is-config="true" duration-ms="9729" started-at="2019-08-14T16:31:57Z" finished-at="2019-08-14T16:32:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="amazonlogin()[pri:0, instance:com.amazon.test.AddBestsellItemstoCart_WithDuplicates@5abca1e0]" name="amazonlogin" duration-ms="6855" started-at="2019-08-14T16:32:06Z" finished-at="2019-08-14T16:32:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazonlogin -->
+        <test-method status="PASS" signature="amazonadditems()[pri:1, instance:com.amazon.test.AddBestsellItemstoCart_WithDuplicates@5abca1e0]" name="amazonadditems" duration-ms="35884" started-at="2019-08-14T16:32:13Z" finished-at="2019-08-14T16:32:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazonadditems -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazon.test.AddBestsellItemstoCart_WithDuplicates@5abca1e0]" name="tearDown" is-config="true" duration-ms="2264" started-at="2019-08-14T16:32:49Z" finished-at="2019-08-14T16:32:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.amazon.test.AddBestsellItemstoCart_WithDuplicates -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
